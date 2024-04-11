@@ -5,9 +5,9 @@ instagram_users = [2010, 2014, 2018, 2020, 2022]
 
 plt.figure(figsize=(10, 6))
 
-plt.plot(years, 3.07M, marker='o', label='Facebook')
-plt.plot(years, 368M, marker='o', label='Twitter')
-plt.plot(years, 2B, marker='o', label='Instagram')
+plt.plot(years, 3, marker='o', label='Facebook')
+plt.plot(years, 368, marker='o', label='Twitter')
+plt.plot(years, 2, marker='o', label='Instagram')
 
 plt.title('Social Networking Site Usage Over Time')
 plt.xlabel('2022')
