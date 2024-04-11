@@ -1,1 +1,2 @@
 # Social-networking-sites
+This project is created in python to show the usage of social networking sites from the years the sites have been launched to the recent years showing a high number of users on different social platforms. The project shows the results about Facebook, Twitter and Instagram users and the years they have been launched also it deals with the number of new users from certain years to recent years and also shows the total number of users on all the social networking platforms:
